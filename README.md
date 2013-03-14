@@ -1,6 +1,6 @@
 # lwl - ファイル名 & 行番号付きのログを出力するNode.jsモジュール
 
-lwlは、__L__og __W__ith __L__ineNumber の略です。
+lwlは、 __L__og __W__ith __L__ineNumber の略です。
 
 lwlの各種メソッド(error, alert, warnなど)を実行したファイル名と行番号が付加されたログがファイルに出力されます。
 
