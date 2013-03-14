@@ -1,0 +1,29 @@
+{
+  "name": "lwl",
+  "version": "0.1.0",
+  "description": "Output log with line-number library for Node.js",
+  "main": "index.js",
+  "scripts": {
+    "test": "vows --spec test/test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:ktty1220/lwl.git"
+  },
+  "keywords": [
+    "log",
+    "line-number"
+  ],
+  "dependencies": {
+    "date-utils": ">=1.2.0"
+  },
+  "engines": {
+    "node": ">=0.6.0"
+  },
+  "author": {
+    "name": "ktty1220",
+    "email": "ktty1220@gmail.com"
+  },
+  "license": "MIT",
+  "readmeFilename": "README.md"
+}
