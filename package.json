@@ -1,7 +1,7 @@
 {
   "name": "lwl",
-  "version": "0.1.0",
-  "description": "Output log with line-number library for Node.js",
+  "version": "0.2.0",
+  "description": "Output log with line-number library for Node.js (support js & coffee)",
   "main": "index.js",
   "scripts": {
     "test": "vows --spec test/test.js"
@@ -15,10 +15,10 @@
     "line-number"
   ],
   "dependencies": {
-    "date-utils": ">=1.2.0"
+    "coffee-script": ">=1.6.2"
   },
   "engines": {
-    "node": ">=0.6.0"
+    "node": ">=0.8.0"
   },
   "author": {
     "name": "ktty1220",
